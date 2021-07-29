@@ -14,5 +14,5 @@ My big passion is discovering the world of web development by learning bunch of 
 # 📑 Statistics
 <div style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/?username=WalidFwixy&show_icons=true&count_private=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidFwixy&layout=compact" />
 </div>
