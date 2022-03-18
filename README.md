@@ -1,11 +1,13 @@
 # 👋 Greetings earthlings !
-Walidoux, I'm 18 years old from Morocco 🇲🇦 and I'm a junior web developer.
-Speaking 3 languages fluently: Arabic, French & English..., a little bit of Chinese.
+Walidoux, I'm 18 years old from Morocco 🇲🇦 and I'm a junior web developer. <br>
+Speaking 3 languages fluently: Arabic, French & English..., a little bit of Chinese. <br>
 Link to my website:
-	<a href="https://walidkorchi.com/">
-		<img src="https://pa1.narvii.com/6294/39cf2f2bd5fce552d27a35d9496297d0f4e6528a_hq.gif" /> 
-		</a>
-		You can find me here:
+
+<a href="https://walidkorchi.com/">
+    <img src="https://pa1.narvii.com/6294/39cf2f2bd5fce552d27a35d9496297d0f4e6528a_hq.gif" /> 
+</a> <br />
+
+You can find me here:
 
 [![Twitter](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/f4hPN3Rx8u)
 [![Telegram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/walid-korchi-a88505220)
