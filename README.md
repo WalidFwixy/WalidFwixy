@@ -1,5 +1,5 @@
 # 👋 Greetings earthlings !
-Walidoux, I'm 19 years old from Morocco 🇲🇦 and I'm a junior web developer. <br>
+Walidoux, I'm a 19 yo web developer based in Morocco! 🇲🇦 <br>
 Speaking 3 languages fluently: Arabic, French & English..., a little bit of Chinese. <br>
 Link to my website:
 
