@@ -6,7 +6,7 @@ Walidoux, I'm a 19 yo web developer based in Morocco 🇲🇦 <br />
 I'm fluent in 4 languages: French, English, Arabic, and Chinese. I'm open to new adventures 🌎 <br />
 Let's have a talk and get to know more about each other! ✨ <br />
 
-<a href="https://walidoux-web-app-git-master-walidkorchi.vercel.app/">
+<a href="https://walidkorchi.com/">
     <img src="https://pa1.narvii.com/6294/39cf2f2bd5fce552d27a35d9496297d0f4e6528a_hq.gif" /> 
 </a> <br /> <br />
 
