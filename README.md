@@ -41,11 +41,4 @@ Click on my doggy UwU
 ![](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
 </section>
-<section>
-
-## 📌 Pinned repos
-
-[![Calculatoux](https://github-readme-stats.vercel.app/api/pin/?username=Walidoux&repo=calculatoux&theme=transparent)](https://github.com/Walidoux/calculatoux)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Todo Desktop App](https://github-readme-stats.vercel.app/api/pin/?username=Walidoux&repo=todo-tauri-app&show_icons=true&theme=transparent)](https://github.com/Walidoux/todo-tauri-app)
-
-</section>
 </main>
