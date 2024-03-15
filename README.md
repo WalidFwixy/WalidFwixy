@@ -21,24 +21,18 @@ Click on my doggy UwU
     
 ## 🛠️ Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br />
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![NeoVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) <br />
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+[![Tools](https://skillicons.dev/icons?i=arch,vscodium,vim,docker,figma)](https://skillicons.dev)
 
 </section>
 <section>
 
 ## 📦 Technologies
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-<br />
-![](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)![SolidJS](https://img.shields.io/badge/solid-486FA0?style=for-the-badge&logo=Solid&logoColor=white)
-<br />
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
-<br />
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br />
-![](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=ts,rust)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=tauri,nextjs,solidjs)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=sass,tailwind)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=rollupjs,vite)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=pnpm,bun)](https://skillicons.dev)
 
 </section>
 </main>
