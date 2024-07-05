@@ -25,6 +25,6 @@ Let's have a talk and get to know more about each other! ✨ <br />
     
 | 🛠️ Tools                                                                               | 📦 Technologies                              |
 | -------------------------------------------------------------------------------------- | -------------------------------------------- |
-| ![Tools](https://skillicons.dev/icons?i=arch,vscodium,vim,docker,figma)                | [![Langs](https://skillicons.dev/icons?i=ts,rust,lua)](https://skillicons.dev)[![Frameworks](https://skillicons.dev/icons?i=tauri,nextjs,solidjs)](https://skillicons.dev)[![Styles](https://skillicons.dev/icons?i=sass,tailwind)](https://skillicons.dev)[![Bundlers](https://skillicons.dev/icons?i=rollupjs,vite)](https://skillicons.dev)[![Package managers](https://skillicons.dev/icons?i=pnpm,bun)](https://skillicons.dev) |
+| ![Tools](https://skillicons.dev/icons?i=arch,neovim,docker,figma)                | [![Langs](https://skillicons.dev/icons?i=ts,rust,lua)](https://skillicons.dev)[![Frameworks](https://skillicons.dev/icons?i=tauri,nextjs,solidjs)](https://skillicons.dev)[![Styles](https://skillicons.dev/icons?i=sass,tailwind)](https://skillicons.dev)[![Bundlers](https://skillicons.dev/icons?i=rollupjs,vite)](https://skillicons.dev)[![Package managers](https://skillicons.dev/icons?i=pnpm,bun)](https://skillicons.dev) |
 
 </div>
